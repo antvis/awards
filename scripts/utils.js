@@ -51,8 +51,10 @@ function getRepoURI(badge) {
   const [repo] = badge.split(' ');
   const _repo = repo.toLowerCase();
   switch (_repo) {
+    case 'ADC':
+      return 'https://github.com/ant-design/ant-design-charts';
     default:
-      return `github.com/antvis/${_repo}`;
+      return `https://github.com/antvis/${_repo}`;
   }
 }
 
@@ -62,5 +64,5 @@ module.exports = {
   parseList,
   normalizeBadge,
   normalizeName,
-  getRepoURI
+  getRepoURI,
 };

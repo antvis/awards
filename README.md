@@ -72,9 +72,9 @@ https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8
 
 | GitHub ID | Award | Date | Badge |
 | - | - | - | - |
-|hustcc|G2 Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-g2-maintainer.json)](github.com/antvis/g2)`|
-|hustcc|G6 Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-g6-maintainer.json)](github.com/antvis/g6)`|
-|hustcc|GPT-Vis Contributor|2024-11-22|`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-gpt-vis-contributor.json)](github.com/antvis/gpt-vis)`|
-|hustcc|L7 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-l7-skilled.json)](github.com/antvis/l7)`|
-|Aarebecca|G6 Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g6-maintainer.json)](github.com/antvis/g6)`|
-|yvonneyx|G6 Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yvonneyx-g6-maintainer.json)](github.com/antvis/g6)`|
+|hustcc|G2 Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-g2-maintainer.json)](https://github.com/antvis/g2)`|
+|hustcc|G6 Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-g6-maintainer.json)](https://github.com/antvis/g6)`|
+|hustcc|GPT-Vis Contributor|2024-11-22|`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-gpt-vis-contributor.json)](https://github.com/antvis/gpt-vis)`|
+|hustcc|L7 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-l7-skilled.json)](https://github.com/antvis/l7)`|
+|Aarebecca|G6 Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g6-maintainer.json)](https://github.com/antvis/g6)`|
+|yvonneyx|G6 Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yvonneyx-g6-maintainer.json)](https://github.com/antvis/g6)`|
