@@ -1,0 +1,16 @@
+{
+  "name": "@antv/awards",
+  "version": "0.0.1",
+  "description": "Grant the AntV badge to GitHub users",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": [
+    "AntV",
+    "awards",
+    "badge"
+  ],
+  "author": "Aarebecca",
+  "license": "MIT"
+}
