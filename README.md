@@ -4,6 +4,36 @@
 This repository records the badges granted to the Github users who have made outstanding contributions to the AntV project.
 
 
+## How to Maintain List
+
+1. Clone this repository to your local environment.
+
+```bash
+git clone git@github.com:antvis/awards.git
+```
+
+2. Install the dependencies.
+
+```bash
+npm i
+```
+
+3. Create or award badges through interaction
+
+```bash
+npm run award
+```
+
+4. Commit and push the changes.
+
+```bash
+git checkout -b update-awards
+git add .
+git commit -m "chore: update awards"
+git push
+```
+
+
 ## Usage
 
 1. Query your award information under this document based on the GitHub ID.

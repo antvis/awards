@@ -2,9 +2,16 @@
   "hustcc": [
     "G2 Maintainer",
     "G6 Maintainer",
-    { "badge": "GPT-Vis Contributor", "date": "2024-11-22" },
+    {
+      "badge": "GPT-Vis Contributor",
+      "date": "2024-11-22"
+    },
     "L7 Skilled"
   ],
-  "Aarebecca": ["G6 Maintainer"],
-  "yvonneyx": ["G6 Maintainer"]
+  "Aarebecca": [
+    "G6 Maintainer"
+  ],
+  "yvonneyx": [
+    "G6 Maintainer"
+  ]
 }

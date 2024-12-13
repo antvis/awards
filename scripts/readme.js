@@ -16,6 +16,37 @@ const description = `
 This repository records the badges granted to the Github users who have made outstanding contributions to the AntV project.
 `;
 
+const maintain = `
+## How to Maintain List
+
+1. Clone this repository to your local environment.
+
+\`\`\`bash
+git clone git@github.com:antvis/awards.git
+\`\`\`
+
+2. Install the dependencies.
+
+\`\`\`bash
+npm i
+\`\`\`
+
+3. Create or award badges through interaction
+
+\`\`\`bash
+npm run award
+\`\`\`
+
+4. Commit and push the changes.
+
+\`\`\`bash
+git checkout -b update-awards
+git add .
+git commit -m "chore: update awards"
+git push
+\`\`\`
+`;
+
 const usages = `
 ## Usage
 
@@ -25,7 +56,7 @@ const usages = `
 
 Example:
 
-![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g6-maintainer.json)
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g6-maintainer.json)](github.com/antvis/g6)
 
 Note: If you are an AntV product user, you can add the logo freely in the following way:
 
@@ -44,8 +75,8 @@ Object.entries(awards).forEach(([id, badges]) => {
 
 const badges = Object.entries(config.badges)
   .map(
-    ([badge, { description, achievement }]) =>
-      `|${badge}|${description}|_${achievement}_|`
+    ([badge, { description, approach }]) =>
+      `|${badge}|${description}|_${approach}_|`
   )
   .join('\n');
 
@@ -72,4 +103,4 @@ ${_awards
   .join('\n')}
 `;
 
-writeFileSync('README.md', [description, usages, table].join('\n'));
+writeFileSync('README.md', [description, maintain, usages, table].join('\n'));

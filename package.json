@@ -6,7 +6,8 @@
   "scripts": {
     "build": "node ./scripts/build.js",
     "readme": "node ./scripts/readme.js",
-    "test": "node ./scripts/test.js"
+    "test": "node ./scripts/test.js",
+    "award": "node ./scripts/add-badge.js"
   },
   "keywords": [
     "AntV",
@@ -14,5 +15,8 @@
     "badge"
   ],
   "author": "Aarebecca",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "inquirer": "^12.2.0"
+  }
 }
