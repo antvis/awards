@@ -4,6 +4,7 @@ const {
   parseList,
   parseConfig,
   normalizeBadge,
+  getRepoURI,
 } = require('./utils');
 
 const config = loadJsonFile('config.json', parseConfig);
@@ -63,7 +64,9 @@ ${_awards
   .map(([id, badge, date]) => {
     const _id = id.toLowerCase();
     const _badge = normalizeBadge(badge);
-    const _url = `![](https://img.shields.io/endpoint?url=https://awards.antv.vision/${_id}-${_badge}.json)`;
+    const _url = `[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/${_id}-${_badge}.json)](${getRepoURI(
+      badge
+    )})`;
     return `|${id}|${badge}|${date}|\`${_url}\`|`;
   })
   .join('\n')}

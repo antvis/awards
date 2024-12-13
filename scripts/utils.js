@@ -47,10 +47,20 @@ function normalizeName(id, badge) {
   return `${id}-${normalizeBadge(badge)}`;
 }
 
+function getRepoURI(badge) {
+  const [repo] = badge.split(' ');
+  const _repo = repo.toLowerCase();
+  switch (_repo) {
+    default:
+      return `github.com/antvis/${_repo}`;
+  }
+}
+
 module.exports = {
   loadJsonFile,
   parseConfig,
   parseList,
   normalizeBadge,
   normalizeName,
+  getRepoURI
 };

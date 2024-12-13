@@ -26,7 +26,7 @@
     },
     "G6 Skilled": {
       "description": "熟练使用 AntV G6",
-      "achievement": ["参与 2024 年 AntV G6 5.0 知识问答活动并获得 90 分以上"]
+      "achievement": ["参与 AntV G6 知识问答活动并获得 90 分以上"]
     },
     "L7 Maintainer": {
       "description": "AntV L7 维护者",
@@ -35,6 +35,10 @@
     "L7 Contributor": {
       "description": "AntV L7 贡献者",
       "achievement": ["为 AntV L7 项目提交 PR 并被合并"]
+    },
+    "L7 Skilled": {
+      "description": "熟练使用 AntV L7",
+      "achievement": ["参与 AntV L7 知识问答活动并获得 90 分以上"]
     },
     "GPT-Vis Contributor": {
       "description": "GPT-Vis 贡献者",
@@ -81,6 +85,9 @@
     },
     "G6 User": {
       "extends": "User"
+    },
+    "L7 Skilled": {
+      "extends": "Skilled"
     },
     "GPT-Vis Contributor": {
       "extends": "Contributor"
