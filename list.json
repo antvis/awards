@@ -1,5 +1,8 @@
 {
-  "hustcc": ["G2 Contributor", "G6 Contributor"],
+  "hustcc": [
+    "G2 Contributor",
+    { "badge": "G6 Contributor", "date": "2024-01-01" }
+  ],
   "Aarebecca": ["G6 Maintainer"],
   "yvonneyx": ["G6 Maintainer"]
 }

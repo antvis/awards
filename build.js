@@ -1,10 +1,16 @@
-const { readFileSync, writeFileSync, existsSync, mkdirSync } = require('fs');
+const { writeFileSync, existsSync, mkdirSync } = require('fs');
 const { join } = require('path');
+const {
+  loadJsonFile,
+  parseConfig,
+  parseList,
+  normalizeName,
+} = require('./utils');
 
 const OUTPUT_DIR = 'dist';
 
-const config = parseConfig(JSON.parse(readFileSync('config.json')));
-const list = JSON.parse(readFileSync('list.json'));
+const config = parseConfig(loadJsonFile('config.json'));
+const list = parseList(loadJsonFile('list.json'));
 
 createBadges(config, list);
 
@@ -13,7 +19,7 @@ function createBadges(config, list) {
   const auth = {};
   for (const id in list) {
     const badges = list[id];
-    for (const badge of badges) {
+    for (const { badge } of badges) {
       if (badge in style) {
         auth[normalizeName(id, badge)] = {
           ...style[badge],
@@ -31,29 +37,4 @@ function createBadges(config, list) {
       JSON.stringify(auth[filename], null, 2)
     );
   }
-}
-
-function parseConfig(config) {
-  const { style } = config;
-  const parsedStyle = {};
-  for (const key in style) {
-    const s = style[key];
-    if (s.extends) {
-      const { extends: e, ..._ } = s;
-      parsedStyle[key] = { ...style[e], ..._ };
-    } else {
-      parsedStyle[key] = s;
-    }
-
-    // Set default label
-    if (parsedStyle.label) parsedStyle.message = parsedStyle.label;
-    else parsedStyle[key].message = key;
-    delete parsedStyle[key].label;
-  }
-  return { ...config, style: parsedStyle };
-}
-
-function normalizeName(id, badge) {
-  const name = `${id}-${badge}`;
-  return name.toLowerCase().replace(/ /g, '-');
 }
