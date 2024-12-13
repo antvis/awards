@@ -6,6 +6,30 @@ This repository records the badges granted to the Github users who have made out
 > 这个仓库库记录授予对 AntV 项目有贡献的 Github 用户的徽章。
 
 
+## Badge Usage / 徽章使用方式
+
+1. Query your award information [under this document](#Awards) based on the GitHub ID.
+
+> 根据 GitHub ID 在[此文档](#Awards)下查询您的徽章信息。
+
+2. Copy the Badge and paste it into the README.md of your repository.
+
+> 复制徽章并粘贴到您的仓库的 README.md 中
+
+Example / 示例:
+
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g6-maintainer.json)](https://github.com/antvis/g6)
+
+Note: If you are a user of AntV products, you can freely use the following badge.
+
+> 注意: 如果您是 AntV 产品的用户，可以自由使用下面的徽章
+
+```text
+https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF
+```
+![](https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF)
+
+
 ## How to Maintain List / 如何维护徽章
 
 1. Clone this repository to your local environment.
@@ -42,30 +66,6 @@ git add .
 git commit -m "chore: update awards"
 git push
 ```
-
-
-## Badge Usage / 徽章使用方式
-
-1. Query your award information [under this document](#Awards) based on the GitHub ID.
-
-> 根据 GitHub ID 在[此文档](#Awards)下查询您的徽章信息。
-
-2. Copy the Badge and paste it into the README.md of your repository.
-
-> 复制徽章并粘贴到您的仓库的 README.md 中
-
-Example / 示例:
-
-[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g6-maintainer.json)](github.com/antvis/g6)
-
-Note: If you are a user of AntV products, you can freely use the following badge.
-
-> 注意: 如果您是 AntV 产品的用户，可以自由使用下面的徽章
-
-```text
-https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF
-```
-![](https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF)
 
 
 ## Achievements / 徽章列表

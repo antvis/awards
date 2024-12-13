@@ -70,7 +70,7 @@ const usages = `
 
 Example / 示例:
 
-[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g6-maintainer.json)](github.com/antvis/g6)
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g6-maintainer.json)](https://github.com/antvis/g6)
 
 Note: If you are a user of AntV products, you can freely use the following badge.
 
@@ -119,4 +119,4 @@ ${_awards
   .join('\n')}
 `;
 
-writeFileSync('README.md', [description, maintain, usages, table].join('\n'));
+writeFileSync('README.md', [description, usages, maintain, table].join('\n'));
