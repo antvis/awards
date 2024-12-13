@@ -10,7 +10,7 @@ This repository records the badges granted to the Github users who have made out
 
 2. Generate the badge URL:
 
-> <span>\!\[\]\(https://img.shields.io/endpoint?url=https://antv.vision/awards/&lt;github_id&gt;-&lt;badge&gt;.json\)</span>
+> <div>![](https://img.shields.io/endpoint?url=https://antv.vision/awards/&lt;<b>github_id</b>&gt;-&lt;<b>badge</b>&gt;.json)</div>
 
 Example:
 

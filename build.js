@@ -33,7 +33,7 @@ function createBadges(config, list) {
   if (!existsSync(OUTPUT_DIR)) mkdirSync(OUTPUT_DIR);
   for (const filename in auth) {
     writeFileSync(
-      join(OUTPUT_DIR, `${filename}.json`),
+      join(OUTPUT_DIR, `${filename.toLowerCase()}.json`),
       JSON.stringify(auth[filename], null, 2)
     );
   }
