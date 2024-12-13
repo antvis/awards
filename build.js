@@ -8,11 +8,13 @@ const {
 } = require('./utils');
 
 const OUTPUT_DIR = 'dist';
+const CNAME = 'awards.antv.vision';
 
 const config = parseConfig(loadJsonFile('config.json'));
 const list = parseList(loadJsonFile('list.json'));
 
 createBadges(config, list);
+writeCNAME();
 
 function createBadges(config, list) {
   const { style } = config;
@@ -37,4 +39,8 @@ function createBadges(config, list) {
       JSON.stringify(auth[filename], null, 2)
     );
   }
+}
+
+function writeCNAME() {
+  writeFileSync(join(OUTPUT_DIR, 'CNAME'), CNAME);
 }
