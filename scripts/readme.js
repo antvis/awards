@@ -6,8 +6,8 @@ const {
   normalizeBadge,
 } = require('./utils');
 
-const config = parseConfig(loadJsonFile('config.json'));
-const list = parseList(loadJsonFile('awards.json'));
+const config = loadJsonFile('config.json', parseConfig);
+const awards = loadJsonFile('awards.json', parseList);
 
 const description = `
 # AntV Awards
@@ -34,10 +34,10 @@ https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8
 ![](https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF)
 `;
 
-const awards = [];
-Object.entries(list).forEach(([id, badges]) => {
+const _awards = [];
+Object.entries(awards).forEach(([id, badges]) => {
   badges.forEach(({ badge, date }) => {
-    awards.push([id, badge, date]);
+    _awards.push([id, badge, date]);
   });
 });
 
@@ -59,7 +59,7 @@ ${badges}
 
 | GitHub ID | Award | Date | Badge |
 | - | - | - | - |
-${awards
+${_awards
   .map(([id, badge, date]) => {
     const _id = id.toLowerCase();
     const _badge = normalizeBadge(badge);

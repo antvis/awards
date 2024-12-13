@@ -1,7 +1,9 @@
 const { readFileSync } = require('fs');
 
-function loadJsonFile(file) {
-  return JSON.parse(readFileSync(file, 'utf8'));
+function loadJsonFile(file, parser) {
+  const json = JSON.parse(readFileSync(file, 'utf8'));
+  if (parser) return parser(json);
+  return json;
 }
 
 function parseConfig(config) {

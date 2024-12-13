@@ -10,17 +10,17 @@ const {
 const OUTPUT_DIR = 'dist';
 const CNAME = 'awards.antv.vision';
 
-const config = parseConfig(loadJsonFile('config.json'));
-const list = parseList(loadJsonFile('awards.json'));
+const config = loadJsonFile('config.json', parseConfig);
+const awards = loadJsonFile('awards.json', parseList);
 
-createBadges(config, list);
+createBadges(config, awards);
 writeCNAME();
 
-function createBadges(config, list) {
+function createBadges(config, awards) {
   const { style } = config;
   const auth = {};
-  for (const id in list) {
-    const badges = list[id];
+  for (const id in awards) {
+    const badges = awards[id];
     for (const { badge } of badges) {
       if (badge in style) {
         auth[normalizeName(id, badge)] = {
