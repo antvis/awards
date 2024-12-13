@@ -20,13 +20,18 @@ const usages = `
 
 1. Query your award information under this document based on the GitHub ID.
 
-2. Generate the badge URL:
-
-> <div>![](https://img.shields.io/endpoint?url=https://antv.vision/awards/&lt;<b>github_id</b>&gt;-&lt;<b>badge</b>&gt;.json)</div>
+2. Copy the Badge and paste it into the README.md of your repository.
 
 Example:
 
-![](https://img.shields.io/endpoint?url=https://antv.vision/awards/aarebecca-g6-maintainer.json)
+![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g6-maintainer.json)
+
+Note: If you are an AntV product user, you can add the logo freely in the following way:
+
+\`\`\`text
+https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF
+\`\`\`
+![](https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF)
 `;
 
 const awards = [];
@@ -39,23 +44,28 @@ Object.entries(list).forEach(([id, badges]) => {
 const badges = Object.entries(config.badges)
   .map(
     ([badge, { description, achievement }]) =>
-      `|\`${normalizeBadge(badge)}\`|${description}|_${achievement}_|`
+      `|${badge}|${description}|_${achievement}_|`
   )
   .join('\n');
 
 const table = `
-## Badges
+## Achievements
 
-| Badge | Description | Achievement |
+| Achievement | Description | Approach |
 | - | - | - |
 ${badges}
 
 ## Awards
 
-| GitHub ID | Award | Date |
-| - | - | - |
+| GitHub ID | Award | Date | Badge |
+| - | - | - | - |
 ${awards
-  .map(([id, badge, date]) => `|${id.toLowerCase()}|${badge}|${date}|`)
+  .map(([id, badge, date]) => {
+    const _id = id.toLowerCase();
+    const _badge = normalizeBadge(badge);
+    const _url = `![](https://img.shields.io/endpoint?url=https://awards.antv.vision/${_id}-${_badge}.json)`;
+    return `|${id}|${badge}|${date}|\`${_url}\`|`;
+  })
   .join('\n')}
 `;
 
