@@ -17,6 +17,7 @@ function createBadges(config, list) {
       if (badge in style) {
         auth[normalizeName(id, badge)] = {
           ...style[badge],
+          message: badge,
           schemaVersion: 1,
           namedLogo: 'antv',
         };
