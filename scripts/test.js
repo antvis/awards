@@ -9,7 +9,10 @@ for (const id in awards) {
   const badges = awards[id];
   for (const { badge } of badges) {
     if (!(badge in config.badges)) {
-      throw new Error(`Badge ${badge} not found in config`);
+      throw new Error(`Badge ${badge} not found in config.badges`);
+    }
+    if (!(badge in config.style)) {
+      throw new Error(`Badge ${badge} not found in config.style`);
     }
   }
 }
