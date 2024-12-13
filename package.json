@@ -14,9 +14,15 @@
     "awards",
     "badge"
   ],
+  "files": [
+    "dist/*"
+  ],
   "author": "Aarebecca",
   "license": "MIT",
   "devDependencies": {
     "inquirer": "^12.2.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

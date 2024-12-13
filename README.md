@@ -3,7 +3,7 @@
 
 This repository records the badges granted to the Github users who have made outstanding contributions to the AntV project.
 
-> 这个仓库库记录授予对 AntV 项目有贡献的 Github 用户的徽章。
+> 这个仓库库记录授予对 AntV 项目有贡献的 Github 用户的徽章
 
 
 ## Badge Usage / 徽章使用方式
