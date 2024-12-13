@@ -17,8 +17,8 @@ function createBadges(config, list) {
       if (badge in style) {
         auth[normalizeName(id, badge)] = {
           ...style[badge],
-          message: badge,
           schemaVersion: 1,
+          label: 'AntV',
           namedLogo: 'antv',
         };
       }
@@ -46,7 +46,9 @@ function parseConfig(config) {
     }
 
     // Set default label
-    if (!parsedStyle.label) parsedStyle[key].label = key;
+    if (parsedStyle.label) parsedStyle.message = parsedStyle.label;
+    else parsedStyle[key].message = key;
+    delete parsedStyle[key].label;
   }
   return { ...config, style: parsedStyle };
 }
