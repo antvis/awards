@@ -23,17 +23,8 @@ jobs:
       - name: Test
         run: npm run test
 
-      - name: Copy File
-        run: cp ./package.json ./dist && cp README.md ./dist
-
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-
-      - name: Publish
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: npm config set //registry.npmjs.org/:_authToken ${NPM_TOKEN} & npm publish ./dist --access public

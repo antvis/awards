@@ -1,22 +1,21 @@
 {
   "name": "@antv/awards",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Grant the AntV badge to GitHub users",
   "main": "index.js",
   "scripts": {
     "build": "node ./scripts/build.js",
     "readme": "node ./scripts/readme.js",
     "test": "node ./scripts/test.js",
-    "award": "node ./scripts/add-badge.js"
+    "award": "node ./scripts/add-badge.js",
+    "release": "bash ./scripts/release.sh"
   },
   "keywords": [
     "AntV",
     "awards",
     "badge"
   ],
-  "files": [
-    "dist/*"
-  ],
+  "files": [],
   "author": "Aarebecca",
   "license": "MIT",
   "devDependencies": {
