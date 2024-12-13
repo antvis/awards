@@ -2,7 +2,7 @@
   "hustcc": [
     "G2 Maintainer",
     "G6 Maintainer",
-    "GPT-Vis Contributor"
+    { "badge": "GPT-Vis Contributor", "date": "2024-11-22" }
   ],
   "Aarebecca": ["G6 Maintainer"],
   "yvonneyx": ["G6 Maintainer"]
