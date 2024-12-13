@@ -35,6 +35,10 @@
     "L7 Contributor": {
       "description": "AntV L7 贡献者",
       "achievement": ["为 AntV L7 项目提交 PR 并被合并"]
+    },
+    "GPT-Vis Contributor": {
+      "description": "GPT-Vis 贡献者",
+      "achievement": ["为 GPT-Vis 项目提交 PR 并被合并"]
     }
   },
   "style": {
