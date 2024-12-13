@@ -1,12 +1,16 @@
 
-# AntV Awards
+# AntV Awards / AntV 徽章
 
 This repository records the badges granted to the Github users who have made outstanding contributions to the AntV project.
 
+> 这个仓库库记录授予对 AntV 项目有贡献的 Github 用户的徽章。
 
-## How to Maintain List
+
+## How to Maintain List / 如何维护徽章
 
 1. Clone this repository to your local environment.
+
+> 克隆仓库到本地
 
 ```bash
 git clone git@github.com:antvis/awards.git
@@ -14,17 +18,23 @@ git clone git@github.com:antvis/awards.git
 
 2. Install the dependencies.
 
+> 安装依赖
+
 ```bash
 npm i
 ```
 
 3. Create or award badges through interaction
 
+> 通过交互创建或授予徽章
+
 ```bash
 npm run award
 ```
 
 4. Commit and push the changes.
+
+> 提交并推送更改
 
 ```bash
 git checkout -b update-awards
@@ -34,17 +44,23 @@ git push
 ```
 
 
-## Usage
+## Badge Usage / 徽章使用方式
 
-1. Query your award information under this document based on the GitHub ID.
+1. Query your award information [under this document](#Awards) based on the GitHub ID.
+
+> 根据 GitHub ID 在[此文档](#Awards)下查询您的徽章信息。
 
 2. Copy the Badge and paste it into the README.md of your repository.
 
-Example:
+> 复制徽章并粘贴到您的仓库的 README.md 中
+
+Example / 示例:
 
 [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g6-maintainer.json)](github.com/antvis/g6)
 
-Note: If you are an AntV product user, you can add the logo freely in the following way:
+Note: If you are a user of AntV products, you can freely use the following badge.
+
+> 注意: 如果您是 AntV 产品的用户，可以自由使用下面的徽章
 
 ```text
 https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF
@@ -52,9 +68,9 @@ https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8
 ![](https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF)
 
 
-## Achievements
+## Achievements / 徽章列表
 
-| Achievement | Description | Approach |
+| Achievement / 成就 | Description / 描述 | Approach / 获取方式 |
 | - | - | - |
 |G Maintainer|AntV G 维护者|_参与 AntV G 项目维护_|
 |G Contributor|AntV G 贡献者|_为 AntV G 项目提交 PR 并被合并_|
@@ -68,9 +84,9 @@ https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8
 |L7 Skilled|熟练使用 AntV L7|_参与 AntV L7 知识问答活动并获得 90 分以上_|
 |GPT-Vis Contributor|GPT-Vis 贡献者|_为 GPT-Vis 项目提交 PR 并被合并_|
 
-## Awards
+## <a id="Awards" /> Awards / 颁发列表
 
-| GitHub ID | Award | Date | Badge |
+| GitHub ID | Achievement / 成就 | Date / 颁发日期 | Badge / 徽章 |
 | - | - | - | - |
 |hustcc|G2 Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-g2-maintainer.json)](https://github.com/antvis/g2)`|
 |hustcc|G6 Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-g6-maintainer.json)](https://github.com/antvis/g6)`|
