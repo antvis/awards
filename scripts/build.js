@@ -11,7 +11,7 @@ const OUTPUT_DIR = 'dist';
 const CNAME = 'awards.antv.vision';
 
 const config = parseConfig(loadJsonFile('config.json'));
-const list = parseList(loadJsonFile('list.json'));
+const list = parseList(loadJsonFile('awards.json'));
 
 createBadges(config, list);
 writeCNAME();

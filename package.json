@@ -4,8 +4,8 @@
   "description": "Grant the AntV badge to GitHub users",
   "main": "index.js",
   "scripts": {
-    "build": "node build.js",
-    "readme": "node readme.js"
+    "build": "node ./scripts/build.js",
+    "readme": "node ./scripts/readme.js"
   },
   "keywords": [
     "AntV",

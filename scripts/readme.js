@@ -7,7 +7,7 @@ const {
 } = require('./utils');
 
 const config = parseConfig(loadJsonFile('config.json'));
-const list = parseList(loadJsonFile('list.json'));
+const list = parseList(loadJsonFile('awards.json'));
 
 const description = `
 # AntV Awards
