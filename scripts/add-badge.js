@@ -2,6 +2,7 @@ const { writeFileSync } = require('fs');
 const inquirer = require('inquirer');
 const { loadJsonFile } = require('./utils');
 const { execSync } = require('child_process');
+const { ANTV_REPOS } = require('./constants');
 
 const mode = inquirer.createPromptModule();
 const category = inquirer.createPromptModule();
@@ -68,7 +69,7 @@ function addBadge() {
       name: 'repo',
       message: '选择技术栈',
       type: 'select',
-      choices: ['G', 'G2', 'S2', 'F2', 'G6', 'X6', 'L7', 'ADC', 'AVA'],
+      choices: ANTV_REPOS,
     },
     {
       name: 'badge',
