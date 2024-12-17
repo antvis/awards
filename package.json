@@ -1,6 +1,6 @@
 {
   "name": "@antv/awards",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Grant the AntV badge to GitHub users",
   "main": "index.js",
   "scripts": {
