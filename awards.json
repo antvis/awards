@@ -54,21 +54,6 @@
     "G2 Contributor",
     "F2 Contributor"
   ],
-  "semantic-release-bot": [
-    "G Contributor",
-    "S2 Contributor",
-    "X6 Contributor"
-  ],
-  "dependabot-preview[bot]": [
-    "G Contributor",
-    "G2 Contributor",
-    "F2 Contributor",
-    "G6 Contributor",
-    "X6 Contributor",
-    "L7 Contributor",
-    "ADC Contributor",
-    "AVA Contributor"
-  ],
   "wang1212": [
     "G Contributor",
     "G2 Contributor"
@@ -183,10 +168,6 @@
   ],
   "budlion": [
     "G Contributor"
-  ],
-  "lgtm-com[bot]": [
-    "G Contributor",
-    "X6 Contributor"
   ],
   "luoxupan": [
     "G Contributor"
@@ -771,11 +752,6 @@
   "qubaomingg": [
     "S2 Contributor"
   ],
-  "github-actions[bot]": [
-    "S2 Contributor",
-    "L7 Contributor",
-    "GPT-Vis Contributor"
-  ],
   "wbbhacker": [
     "S2 Contributor"
   ],
@@ -952,10 +928,6 @@
   ],
   "iNahooNya": [
     "F2 Contributor"
-  ],
-  "dependabot[bot]": [
-    "F2 Contributor",
-    "X6 Contributor"
   ],
   "chj-damon": [
     "F2 Contributor"
@@ -1277,9 +1249,6 @@
   "bubkoo": [
     "X6 Contributor"
   ],
-  "x6-bot[bot]": [
-    "X6 Contributor"
-  ],
   "lloydzhou": [
     "X6 Contributor"
   ],
@@ -1382,10 +1351,6 @@
   ],
   "kioyang": [
     "X6 Contributor"
-  ],
-  "imgbot[bot]": [
-    "X6 Contributor",
-    "AVA Contributor"
   ],
   "hylerrix": [
     "X6 Contributor"
