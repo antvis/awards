@@ -77,9 +77,9 @@ Note: If you are a user of AntV products, you can freely use the following badge
 > 注意: 如果您是 AntV 产品的用户，可以自由使用下面的徽章
 
 \`\`\`text
-https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF
+https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF&logoColor=white
 \`\`\`
-![](https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF)
+![](https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF&logoColor=white)
 `;
 
 const _awards = [];
