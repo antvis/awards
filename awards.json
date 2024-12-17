@@ -5,6 +5,9 @@
   "1379255913": [
     "G2 Contributor"
   ],
+  "2976151305": [
+    "GPT-Vis Contributor"
+  ],
   "hustcc": [
     "G2 Maintainer",
     "G6 Maintainer",
@@ -19,7 +22,8 @@
     "F2 Contributor",
     "G6 Contributor",
     "L7 Contributor",
-    "ADC Contributor"
+    "ADC Contributor",
+    "GPT-Vis Contributor"
   ],
   "Aarebecca": [
     "G6 Maintainer",
@@ -30,7 +34,8 @@
   "yvonneyx": [
     "G6 Maintainer",
     "G6 Contributor",
-    "ADC Contributor"
+    "ADC Contributor",
+    "GPT-Vis Contributor"
   ],
   "xiaoiver": [
     "G Contributor",
@@ -79,7 +84,8 @@
     "G6 Contributor",
     "X6 Contributor",
     "L7 Contributor",
-    "ADC Contributor"
+    "ADC Contributor",
+    "GPT-Vis Contributor"
   ],
   "limichange": [
     "G Contributor"
@@ -114,7 +120,8 @@
     "G Contributor",
     "G2 Contributor",
     "G6 Contributor",
-    "ADC Contributor"
+    "ADC Contributor",
+    "GPT-Vis Contributor"
   ],
   "elaine1234": [
     "G Contributor",
@@ -246,7 +253,8 @@
   "BBSQQ": [
     "G2 Contributor",
     "L7 Contributor",
-    "AVA Contributor"
+    "AVA Contributor",
+    "GPT-Vis Contributor"
   ],
   "chenshuai2144": [
     "G2 Contributor",
@@ -277,7 +285,8 @@
     "G2 Contributor"
   ],
   "interstellarmt": [
-    "G2 Contributor"
+    "G2 Contributor",
+    "GPT-Vis Contributor"
   ],
   "kun6696": [
     "G2 Contributor"
@@ -337,7 +346,8 @@
   "lvisei": [
     "G2 Contributor",
     "L7 Contributor",
-    "ADC Contributor"
+    "ADC Contributor",
+    "GPT-Vis Contributor"
   ],
   "yangguansen": [
     "G2 Contributor"
@@ -388,7 +398,8 @@
     "G6 Contributor",
     "X6 Contributor",
     "L7 Contributor",
-    "AVA Contributor"
+    "AVA Contributor",
+    "GPT-Vis Contributor"
   ],
   "bingqichen": [
     "G2 Contributor"
@@ -762,7 +773,8 @@
   ],
   "github-actions[bot]": [
     "S2 Contributor",
-    "L7 Contributor"
+    "L7 Contributor",
+    "GPT-Vis Contributor"
   ],
   "wbbhacker": [
     "S2 Contributor"
@@ -972,7 +984,8 @@
   ],
   "chenluli": [
     "G6 Contributor",
-    "AVA Contributor"
+    "AVA Contributor",
+    "GPT-Vis Contributor"
   ],
   "openwayne": [
     "G6 Contributor"
@@ -1814,5 +1827,14 @@
   ],
   "Tomotoes": [
     "AVA Contributor"
+  ],
+  "Aralhi": [
+    "GPT-Vis Contributor"
+  ],
+  "eltociear": [
+    "GPT-Vis Contributor"
+  ],
+  "csunny": [
+    "GPT-Vis Contributor"
   ]
 }

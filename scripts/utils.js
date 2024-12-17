@@ -59,7 +59,7 @@ function getOwnerRepo(repo) {
 
 function getRepoURI(badge) {
   const [repo] = badge.split(' ');
-  return getOwnerRepo(repo);
+  return 'https://github.com/' + getOwnerRepo(repo);
 }
 
 module.exports = {

@@ -1,8 +1,7 @@
 const fetch = require('node-fetch');
 const { writeFileSync } = require('fs');
 const { getOwnerRepo, loadJsonFile } = require('./utils');
-
-const ANTV_REPOS = ['G', 'G2', 'S2', 'F2', 'G6', 'X6', 'L7', 'ADC', 'AVA'];
+const { ANTV_REPOS } = require('./constants');
 
 const ownerRepo = ANTV_REPOS.map(getOwnerRepo);
 
