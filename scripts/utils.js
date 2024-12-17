@@ -47,15 +47,19 @@ function normalizeName(id, badge) {
   return `${id}-${normalizeBadge(badge)}`;
 }
 
+function getOwnerRepo(repo) {
+  repo = repo.toLowerCase();
+  switch (repo) {
+    case 'adc':
+      return 'ant-design/ant-design-charts';
+    default:
+      return `antvis/${repo.toLowerCase()}`;
+  }
+}
+
 function getRepoURI(badge) {
   const [repo] = badge.split(' ');
-  const _repo = repo.toLowerCase();
-  switch (_repo) {
-    case 'ADC':
-      return 'https://github.com/ant-design/ant-design-charts';
-    default:
-      return `https://github.com/antvis/${_repo}`;
-  }
+  return getRepoName(repo);
 }
 
 module.exports = {
@@ -65,4 +69,5 @@ module.exports = {
   normalizeBadge,
   normalizeName,
   getRepoURI,
+  getOwnerRepo,
 };
