@@ -4,5 +4,6 @@
   "message": "GPT-Vis Contributor",
   "schemaVersion": 1,
   "label": "AntV",
-  "namedLogo": "antv"
+  "namedLogo": "antv",
+  "logoColor": "white"
 }

@@ -4,5 +4,6 @@
   "message": "L7 Skilled",
   "schemaVersion": 1,
   "label": "AntV",
-  "namedLogo": "antv"
+  "namedLogo": "antv",
+  "logoColor": "white"
 }

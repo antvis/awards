@@ -4,5 +4,6 @@
   "message": "G2 Maintainer",
   "schemaVersion": 1,
   "label": "AntV",
-  "namedLogo": "antv"
+  "namedLogo": "antv",
+  "logoColor": "white"
 }
