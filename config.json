@@ -1,75 +1,69 @@
 {
-  "category": [
-    "Maintainer",
-    "Contributor",
-    "Skilled"
-  ],
+  "category": ["Maintainer", "Contributor", "Skilled"],
   "badges": {
     "G Maintainer": {
       "description": "AntV G 维护者",
-      "approach": [
-        "参与 AntV G 项目维护"
-      ]
+      "approach": ["参与 AntV G 项目维护"]
     },
     "G Contributor": {
       "description": "AntV G 贡献者",
-      "approach": [
-        "为 AntV G 项目提交 PR 并被合并"
-      ]
+      "approach": ["为 AntV G 项目提交 PR 并被合并"]
     },
     "G2 Maintainer": {
       "description": "AntV G2 维护者",
-      "approach": [
-        "参与 AntV G2 项目维护"
-      ]
+      "approach": ["参与 AntV G2 项目维护"]
     },
     "G2 Contributor": {
       "description": "AntV G2 贡献者",
-      "approach": [
-        "为 AntV G2 项目提交 PR 并被合并"
-      ]
+      "approach": ["为 AntV G2 项目提交 PR 并被合并"]
+    },
+    "S2 Contributor": {
+      "description": "AntV S2 贡献者",
+      "approach": ["为 AntV S2 项目提交 PR 并被合并"]
+    },
+    "F2 Contributor": {
+      "description": "AntV F2 贡献者",
+      "approach": ["为 AntV F2 项目提交 PR 并被合并"]
     },
     "G6 Maintainer": {
       "description": "AntV G6 维护者",
-      "approach": [
-        "参与 AntV G6 项目维护"
-      ]
+      "approach": ["参与 AntV G6 项目维护"]
     },
     "G6 Contributor": {
       "description": "AntV G6 贡献者",
-      "approach": [
-        "为 AntV G6 项目提交 PR 并被合并"
-      ]
+      "approach": ["为 AntV G6 项目提交 PR 并被合并"]
     },
     "G6 Skilled": {
       "description": "熟练使用 AntV G6",
-      "approach": [
-        "参与 AntV G6 知识问答活动并获得 90 分以上"
-      ]
+      "approach": ["参与 AntV G6 知识问答活动并获得 90 分以上"]
+    },
+    "X6 Contributor": {
+      "description": "AntV X6 贡献者",
+      "approach": ["为 AntV X6 项目提交 PR 并被合并"]
     },
     "L7 Maintainer": {
       "description": "AntV L7 维护者",
-      "approach": [
-        "参与 AntV L7 项目维护"
-      ]
+      "approach": ["参与 AntV L7 项目维护"]
     },
     "L7 Contributor": {
       "description": "AntV L7 贡献者",
-      "approach": [
-        "为 AntV L7 项目提交 PR 并被合并"
-      ]
+      "approach": ["为 AntV L7 项目提交 PR 并被合并"]
     },
     "L7 Skilled": {
       "description": "熟练使用 AntV L7",
-      "approach": [
-        "参与 AntV L7 知识问答活动并获得 90 分以上"
-      ]
+      "approach": ["参与 AntV L7 知识问答活动并获得 90 分以上"]
+    },
+    "ADC Contributor": {
+      "description": "Ant Design Charts 贡献者",
+      "approach": ["为 Ant Design Charts 项目提交 PR 并被合并"]
+    },
+    "AVA Contributor": {
+      "description": "AntV AVA 贡献者",
+      "approach": ["为 AntV AVA 项目提交 PR 并被合并"]
     },
     "GPT-Vis Contributor": {
       "description": "GPT-Vis 贡献者",
-      "approach": [
-        "为 GPT-Vis 项目提交 PR 并被合并"
-      ]
+      "approach": ["为 GPT-Vis 项目提交 PR 并被合并"]
     }
   },
   "style": {
@@ -89,11 +83,20 @@
       "labelColor": "8B5DFF",
       "color": "FFF"
     },
+    "G Contributor": {
+      "extends": "Contributor"
+    },
     "G2 Contributor": {
       "extends": "Contributor"
     },
     "G2 Maintainer": {
       "extends": "Maintainer"
+    },
+    "S2 Contributor": {
+      "extends": "Contributor"
+    },
+    "F2 Contributor": {
+      "extends": "Contributor"
     },
     "G2 Skilled": {
       "extends": "Skilled"
@@ -113,8 +116,20 @@
     "G6 User": {
       "extends": "User"
     },
+    "X6 Contributor": {
+      "extends": "Contributor"
+    },
+    "L7 Contributor": {
+      "extends": "Contributor"
+    },
     "L7 Skilled": {
       "extends": "Skilled"
+    },
+    "ADC Contributor": {
+      "extends": "Contributor"
+    },
+    "AVA Contributor": {
+      "extends": "Contributor"
     },
     "GPT-Vis Contributor": {
       "extends": "Contributor"
