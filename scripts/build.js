@@ -28,6 +28,7 @@ function createBadges(config, awards) {
           schemaVersion: 1,
           label: 'AntV',
           namedLogo: 'antv',
+          logoColor: 'white',
         };
       }
     }
