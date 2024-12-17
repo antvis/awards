@@ -16,3 +16,15 @@ jobs:
 
       - name: Test
         run: npm run test
+
+      - name: Readme
+        run: npm run readme
+
+      - name: Check readme
+        run: |
+          if ! git diff --cached --exit-code; then
+            echo "Error: README.md is not up to date. Please run 'npm run readme' and commit the changes."
+            exit 1
+          else
+            echo "README.md is up to date."
+          fi
