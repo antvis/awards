@@ -18,6 +18,13 @@ Promise.all(ownerRepo.map(getContributors)).then((results) => {
     });
   });
 
+  // filter out the robot
+  Object.keys(awards).forEach((id) => {
+    if (id.includes('[bot]') || id.endsWith('-bot')) {
+      delete awards[id];
+    }
+  });
+
   writeFileSync('awards.json', JSON.stringify(awards, null, 2));
 });
 
