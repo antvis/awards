@@ -1,4 +1,7 @@
 {
+  "17881055": [
+    "G6 Skilled"
+  ],
   "321095741": [
     "G2 Contributor"
   ],
@@ -23,19 +26,22 @@
     "G6 Contributor",
     "L7 Contributor",
     "ADC Contributor",
-    "GPT-Vis Contributor"
+    "GPT-Vis Contributor",
+    "G6 Skilled"
   ],
   "Aarebecca": [
     "G6 Maintainer",
     "G Contributor",
     "G2 Contributor",
-    "G6 Contributor"
+    "G6 Contributor",
+    "G6 Skilled"
   ],
   "yvonneyx": [
     "G6 Maintainer",
     "G6 Contributor",
     "ADC Contributor",
-    "GPT-Vis Contributor"
+    "GPT-Vis Contributor",
+    "G6 Skilled"
   ],
   "xiaoiver": [
     "G Contributor",
@@ -201,7 +207,8 @@
   ],
   "ChenKun1997": [
     "G2 Contributor",
-    "ADC Contributor"
+    "ADC Contributor",
+    "G6 Skilled"
   ],
   "cipchk": [
     "G2 Contributor"
@@ -254,7 +261,8 @@
     "G2 Contributor"
   ],
   "the-lemonboy": [
-    "G2 Contributor"
+    "G2 Contributor",
+    "G6 Skilled"
   ],
   "zhfanrui": [
     "G2 Contributor"
@@ -328,7 +336,8 @@
     "G2 Contributor",
     "L7 Contributor",
     "ADC Contributor",
-    "GPT-Vis Contributor"
+    "GPT-Vis Contributor",
+    "G6 Skilled"
   ],
   "yangguansen": [
     "G2 Contributor"
@@ -966,7 +975,8 @@
     "G6 Contributor"
   ],
   "zqqcee": [
-    "G6 Contributor"
+    "G6 Contributor",
+    "G6 Skilled"
   ],
   "bzhangzju": [
     "G6 Contributor"
@@ -991,7 +1001,8 @@
   ],
   "liaodalin19903": [
     "G6 Contributor",
-    "X6 Contributor"
+    "X6 Contributor",
+    "G6 Skilled"
   ],
   "wunaidage": [
     "G6 Contributor"
@@ -1024,7 +1035,8 @@
     "G6 Contributor"
   ],
   "GemT27": [
-    "G6 Contributor"
+    "G6 Contributor",
+    "G6 Skilled"
   ],
   "Arichy": [
     "G6 Contributor"
@@ -1051,7 +1063,8 @@
     "G6 Contributor"
   ],
   "TZZack": [
-    "G6 Contributor"
+    "G6 Contributor",
+    "G6 Skilled"
   ],
   "Simon-He95": [
     "G6 Contributor",
@@ -1076,7 +1089,8 @@
     "G6 Contributor"
   ],
   "puxiao": [
-    "G6 Contributor"
+    "G6 Contributor",
+    "G6 Skilled"
   ],
   "pwpow": [
     "G6 Contributor"
@@ -1232,7 +1246,8 @@
     "G6 Contributor"
   ],
   "SevenNorth": [
-    "G6 Contributor"
+    "G6 Contributor",
+    "G6 Skilled"
   ],
   "sklinov": [
     "G6 Contributor"
@@ -1250,7 +1265,8 @@
     "X6 Contributor"
   ],
   "lloydzhou": [
-    "X6 Contributor"
+    "X6 Contributor",
+    "G6 Skilled"
   ],
   "yuedud": [
     "X6 Contributor"
@@ -1801,5 +1817,143 @@
   ],
   "csunny": [
     "GPT-Vis Contributor"
+  ],
+  "gdnwr": [
+    "G6 Skilled"
+  ],
+  "zxhycxq": [
+    "G6 Skilled"
+  ],
+  "warriorhj": [
+    "G6 Skilled"
+  ],
+  "prsxsd": [
+    "G6 Skilled"
+  ],
+  "xiaoyufeng": [
+    "G6 Skilled"
+  ],
+  "tabzhao": [
+    "G6 Skilled"
+  ],
+  "mydaoyuan": [
+    "G6 Skilled"
+  ],
+  "yanhcao": [
+    "G6 Skilled"
+  ],
+  "zippppper": [
+    "G6 Skilled"
+  ],
+  "qtnizuishuai": [
+    "G6 Skilled"
+  ],
+  "Yudouya": [
+    "G6 Skilled"
+  ],
+  "luoyelusheng": [
+    "G6 Skilled"
+  ],
+  "lhz7695001": [
+    "G6 Skilled"
+  ],
+  "ErricLu": [
+    "G6 Skilled"
+  ],
+  "ztd127": [
+    "G6 Skilled"
+  ],
+  "yangzy0603": [
+    "G6 Skilled"
+  ],
+  "zcz1998": [
+    "G6 Skilled"
+  ],
+  "agentleman": [
+    "G6 Skilled"
+  ],
+  "ningwei": [
+    "G6 Skilled"
+  ],
+  "su-muzhi": [
+    "G6 Skilled"
+  ],
+  "sdf": [
+    "G6 Skilled"
+  ],
+  "duoduoObama": [
+    "G6 Skilled"
+  ],
+  "mio-kei": [
+    "G6 Skilled"
+  ],
+  "hero8080": [
+    "G6 Skilled"
+  ],
+  "shuiyahong": [
+    "G6 Skilled"
+  ],
+  "zys0505": [
+    "G6 Skilled"
+  ],
+  "tangyu1030": [
+    "G6 Skilled"
+  ],
+  "wangxiang666": [
+    "G6 Skilled"
+  ],
+  "lhuazai": [
+    "G6 Skilled"
+  ],
+  "BallerJay": [
+    "G6 Skilled"
+  ],
+  "wu0211": [
+    "G6 Skilled"
+  ],
+  "laibin-wang": [
+    "G6 Skilled"
+  ],
+  "leehomeok": [
+    "G6 Skilled"
+  ],
+  "md-liuxiao": [
+    "G6 Skilled"
+  ],
+  "otwayxf": [
+    "G6 Skilled"
+  ],
+  "yycgis": [
+    "G6 Skilled"
+  ],
+  "lstgithub578": [
+    "G6 Skilled"
+  ],
+  "yiqu666-star": [
+    "G6 Skilled"
+  ],
+  "RoverLion": [
+    "G6 Skilled"
+  ],
+  "gilizeer": [
+    "G6 Skilled"
+  ],
+  "nfym": [
+    "G6 Skilled"
+  ],
+  "xiaoluoHe": [
+    "G6 Skilled"
+  ],
+  "AndyJinSS": [
+    "G6 Skilled"
+  ],
+  "webyang1": [
+    "G6 Skilled"
+  ],
+  "huangxiaobin001": [
+    "G6 Skilled"
+  ],
+  "aaayinga": [
+    "G6 Skilled"
   ]
 }

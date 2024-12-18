@@ -93,6 +93,7 @@ git push
 
 | GitHub ID | Achievement / 成就 | Date / 颁发日期 | Badge / 徽章 |
 | - | - | - | - |
+|17881055|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/17881055-g6-skilled.json)](https://github.com/antvis/g6)`|
 |321095741|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/321095741-g2-contributor.json)](https://github.com/antvis/g2)`|
 |1379255913|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/1379255913-g2-contributor.json)](https://github.com/antvis/g2)`|
 |2976151305|GPT-Vis Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/2976151305-gpt-vis-contributor.json)](https://github.com/antvis/gpt-vis)`|
@@ -108,14 +109,17 @@ git push
 |hustcc|L7 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-l7-contributor.json)](https://github.com/antvis/l7)`|
 |hustcc|ADC Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-adc-contributor.json)](https://github.com/ant-design/ant-design-charts)`|
 |hustcc|GPT-Vis Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-gpt-vis-contributor.json)](https://github.com/antvis/gpt-vis)`|
+|hustcc|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-g6-skilled.json)](https://github.com/antvis/g6)`|
 |Aarebecca|G6 Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g6-maintainer.json)](https://github.com/antvis/g6)`|
 |Aarebecca|G Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g-contributor.json)](https://github.com/antvis/g)`|
 |Aarebecca|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g2-contributor.json)](https://github.com/antvis/g2)`|
 |Aarebecca|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g6-contributor.json)](https://github.com/antvis/g6)`|
+|Aarebecca|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g6-skilled.json)](https://github.com/antvis/g6)`|
 |yvonneyx|G6 Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yvonneyx-g6-maintainer.json)](https://github.com/antvis/g6)`|
 |yvonneyx|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yvonneyx-g6-contributor.json)](https://github.com/antvis/g6)`|
 |yvonneyx|ADC Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yvonneyx-adc-contributor.json)](https://github.com/ant-design/ant-design-charts)`|
 |yvonneyx|GPT-Vis Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yvonneyx-gpt-vis-contributor.json)](https://github.com/antvis/gpt-vis)`|
+|yvonneyx|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yvonneyx-g6-skilled.json)](https://github.com/antvis/g6)`|
 |xiaoiver|G Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/xiaoiver-g-contributor.json)](https://github.com/antvis/g)`|
 |xiaoiver|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/xiaoiver-g2-contributor.json)](https://github.com/antvis/g2)`|
 |xiaoiver|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/xiaoiver-g6-contributor.json)](https://github.com/antvis/g6)`|
@@ -210,6 +214,7 @@ git push
 |Runtus|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/runtus-g2-contributor.json)](https://github.com/antvis/g2)`|
 |ChenKun1997|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/chenkun1997-g2-contributor.json)](https://github.com/antvis/g2)`|
 |ChenKun1997|ADC Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/chenkun1997-adc-contributor.json)](https://github.com/ant-design/ant-design-charts)`|
+|ChenKun1997|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/chenkun1997-g6-skilled.json)](https://github.com/antvis/g6)`|
 |cipchk|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/cipchk-g2-contributor.json)](https://github.com/antvis/g2)`|
 |xile611|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/xile611-g2-contributor.json)](https://github.com/antvis/g2)`|
 |BENcorry|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/bencorry-g2-contributor.json)](https://github.com/antvis/g2)`|
@@ -233,6 +238,7 @@ git push
 |Frezc|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/frezc-g2-contributor.json)](https://github.com/antvis/g2)`|
 |xudafeng|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/xudafeng-g2-contributor.json)](https://github.com/antvis/g2)`|
 |the-lemonboy|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/the-lemonboy-g2-contributor.json)](https://github.com/antvis/g2)`|
+|the-lemonboy|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/the-lemonboy-g6-skilled.json)](https://github.com/antvis/g6)`|
 |zhfanrui|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/zhfanrui-g2-contributor.json)](https://github.com/antvis/g2)`|
 |zhangjunjie-loki|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/zhangjunjie-loki-g2-contributor.json)](https://github.com/antvis/g2)`|
 |iamzone|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/iamzone-g2-contributor.json)](https://github.com/antvis/g2)`|
@@ -265,6 +271,7 @@ git push
 |lvisei|L7 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/lvisei-l7-contributor.json)](https://github.com/antvis/l7)`|
 |lvisei|ADC Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/lvisei-adc-contributor.json)](https://github.com/ant-design/ant-design-charts)`|
 |lvisei|GPT-Vis Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/lvisei-gpt-vis-contributor.json)](https://github.com/antvis/gpt-vis)`|
+|lvisei|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/lvisei-g6-skilled.json)](https://github.com/antvis/g6)`|
 |yangguansen|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yangguansen-g2-contributor.json)](https://github.com/antvis/g2)`|
 |taoliujun|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/taoliujun-g2-contributor.json)](https://github.com/antvis/g2)`|
 |NewByVector|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/newbyvector-g2-contributor.json)](https://github.com/antvis/g2)`|
@@ -505,6 +512,7 @@ git push
 |openwayne|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/openwayne-g6-contributor.json)](https://github.com/antvis/g6)`|
 |AlbertAZ1992|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/albertaz1992-g6-contributor.json)](https://github.com/antvis/g6)`|
 |zqqcee|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/zqqcee-g6-contributor.json)](https://github.com/antvis/g6)`|
+|zqqcee|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/zqqcee-g6-skilled.json)](https://github.com/antvis/g6)`|
 |bzhangzju|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/bzhangzju-g6-contributor.json)](https://github.com/antvis/g6)`|
 |ColinChen2|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/colinchen2-g6-contributor.json)](https://github.com/antvis/g6)`|
 |k644606347|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/k644606347-g6-contributor.json)](https://github.com/antvis/g6)`|
@@ -514,6 +522,7 @@ git push
 |vellengs|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/vellengs-g6-contributor.json)](https://github.com/antvis/g6)`|
 |liaodalin19903|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/liaodalin19903-g6-contributor.json)](https://github.com/antvis/g6)`|
 |liaodalin19903|X6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/liaodalin19903-x6-contributor.json)](https://github.com/antvis/x6)`|
+|liaodalin19903|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/liaodalin19903-g6-skilled.json)](https://github.com/antvis/g6)`|
 |wunaidage|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/wunaidage-g6-contributor.json)](https://github.com/antvis/g6)`|
 |chenpeng-yiyu|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/chenpeng-yiyu-g6-contributor.json)](https://github.com/antvis/g6)`|
 |Anderson-Liu|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/anderson-liu-g6-contributor.json)](https://github.com/antvis/g6)`|
@@ -525,6 +534,7 @@ git push
 |feikerwu|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/feikerwu-g6-contributor.json)](https://github.com/antvis/g6)`|
 |ttys026|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/ttys026-g6-contributor.json)](https://github.com/antvis/g6)`|
 |GemT27|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/gemt27-g6-contributor.json)](https://github.com/antvis/g6)`|
+|GemT27|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/gemt27-g6-skilled.json)](https://github.com/antvis/g6)`|
 |Arichy|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/arichy-g6-contributor.json)](https://github.com/antvis/g6)`|
 |yuanchuan|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yuanchuan-g6-contributor.json)](https://github.com/antvis/g6)`|
 |uhobnil|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/uhobnil-g6-contributor.json)](https://github.com/antvis/g6)`|
@@ -534,6 +544,7 @@ git push
 |iahu|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/iahu-g6-contributor.json)](https://github.com/antvis/g6)`|
 |hujiulong|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hujiulong-g6-contributor.json)](https://github.com/antvis/g6)`|
 |TZZack|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/tzzack-g6-contributor.json)](https://github.com/antvis/g6)`|
+|TZZack|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/tzzack-g6-skilled.json)](https://github.com/antvis/g6)`|
 |Simon-He95|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/simon-he95-g6-contributor.json)](https://github.com/antvis/g6)`|
 |Simon-He95|X6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/simon-he95-x6-contributor.json)](https://github.com/antvis/x6)`|
 |MusicTen|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/musicten-g6-contributor.json)](https://github.com/antvis/g6)`|
@@ -543,6 +554,7 @@ git push
 |omahs|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/omahs-g6-contributor.json)](https://github.com/antvis/g6)`|
 |phoenix110|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/phoenix110-g6-contributor.json)](https://github.com/antvis/g6)`|
 |puxiao|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/puxiao-g6-contributor.json)](https://github.com/antvis/g6)`|
+|puxiao|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/puxiao-g6-skilled.json)](https://github.com/antvis/g6)`|
 |pwpow|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/pwpow-g6-contributor.json)](https://github.com/antvis/g6)`|
 |junyuim|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/junyuim-g6-contributor.json)](https://github.com/antvis/g6)`|
 |rockSandy|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/rocksandy-g6-contributor.json)](https://github.com/antvis/g6)`|
@@ -599,12 +611,14 @@ git push
 |luckyyyyy|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/luckyyyyy-g6-contributor.json)](https://github.com/antvis/g6)`|
 |codersjj|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/codersjj-g6-contributor.json)](https://github.com/antvis/g6)`|
 |SevenNorth|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/sevennorth-g6-contributor.json)](https://github.com/antvis/g6)`|
+|SevenNorth|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/sevennorth-g6-skilled.json)](https://github.com/antvis/g6)`|
 |sklinov|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/sklinov-g6-contributor.json)](https://github.com/antvis/g6)`|
 |Rey-Wang|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/rey-wang-g6-contributor.json)](https://github.com/antvis/g6)`|
 |Jiaocz|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/jiaocz-g6-contributor.json)](https://github.com/antvis/g6)`|
 |niknbr|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/niknbr-g6-contributor.json)](https://github.com/antvis/g6)`|
 |bubkoo|X6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/bubkoo-x6-contributor.json)](https://github.com/antvis/x6)`|
 |lloydzhou|X6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/lloydzhou-x6-contributor.json)](https://github.com/antvis/x6)`|
+|lloydzhou|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/lloydzhou-g6-skilled.json)](https://github.com/antvis/g6)`|
 |yuedud|X6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yuedud-x6-contributor.json)](https://github.com/antvis/x6)`|
 |jtsang4|X6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/jtsang4-x6-contributor.json)](https://github.com/antvis/x6)`|
 |lyn-boyu|X6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/lyn-boyu-x6-contributor.json)](https://github.com/antvis/x6)`|
@@ -791,3 +805,49 @@ git push
 |Aralhi|GPT-Vis Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aralhi-gpt-vis-contributor.json)](https://github.com/antvis/gpt-vis)`|
 |eltociear|GPT-Vis Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/eltociear-gpt-vis-contributor.json)](https://github.com/antvis/gpt-vis)`|
 |csunny|GPT-Vis Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/csunny-gpt-vis-contributor.json)](https://github.com/antvis/gpt-vis)`|
+|gdnwr|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/gdnwr-g6-skilled.json)](https://github.com/antvis/g6)`|
+|zxhycxq|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/zxhycxq-g6-skilled.json)](https://github.com/antvis/g6)`|
+|warriorhj|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/warriorhj-g6-skilled.json)](https://github.com/antvis/g6)`|
+|prsxsd|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/prsxsd-g6-skilled.json)](https://github.com/antvis/g6)`|
+|xiaoyufeng|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/xiaoyufeng-g6-skilled.json)](https://github.com/antvis/g6)`|
+|tabzhao|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/tabzhao-g6-skilled.json)](https://github.com/antvis/g6)`|
+|mydaoyuan|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/mydaoyuan-g6-skilled.json)](https://github.com/antvis/g6)`|
+|yanhcao|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yanhcao-g6-skilled.json)](https://github.com/antvis/g6)`|
+|zippppper|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/zippppper-g6-skilled.json)](https://github.com/antvis/g6)`|
+|qtnizuishuai|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/qtnizuishuai-g6-skilled.json)](https://github.com/antvis/g6)`|
+|Yudouya|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yudouya-g6-skilled.json)](https://github.com/antvis/g6)`|
+|luoyelusheng|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/luoyelusheng-g6-skilled.json)](https://github.com/antvis/g6)`|
+|lhz7695001|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/lhz7695001-g6-skilled.json)](https://github.com/antvis/g6)`|
+|ErricLu|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/erriclu-g6-skilled.json)](https://github.com/antvis/g6)`|
+|ztd127|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/ztd127-g6-skilled.json)](https://github.com/antvis/g6)`|
+|yangzy0603|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yangzy0603-g6-skilled.json)](https://github.com/antvis/g6)`|
+|zcz1998|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/zcz1998-g6-skilled.json)](https://github.com/antvis/g6)`|
+|agentleman|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/agentleman-g6-skilled.json)](https://github.com/antvis/g6)`|
+|ningwei|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/ningwei-g6-skilled.json)](https://github.com/antvis/g6)`|
+|su-muzhi|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/su-muzhi-g6-skilled.json)](https://github.com/antvis/g6)`|
+|sdf|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/sdf-g6-skilled.json)](https://github.com/antvis/g6)`|
+|duoduoObama|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/duoduoobama-g6-skilled.json)](https://github.com/antvis/g6)`|
+|mio-kei|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/mio-kei-g6-skilled.json)](https://github.com/antvis/g6)`|
+|hero8080|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hero8080-g6-skilled.json)](https://github.com/antvis/g6)`|
+|shuiyahong|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/shuiyahong-g6-skilled.json)](https://github.com/antvis/g6)`|
+|zys0505|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/zys0505-g6-skilled.json)](https://github.com/antvis/g6)`|
+|tangyu1030|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/tangyu1030-g6-skilled.json)](https://github.com/antvis/g6)`|
+|wangxiang666|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/wangxiang666-g6-skilled.json)](https://github.com/antvis/g6)`|
+|lhuazai|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/lhuazai-g6-skilled.json)](https://github.com/antvis/g6)`|
+|BallerJay|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/ballerjay-g6-skilled.json)](https://github.com/antvis/g6)`|
+|wu0211|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/wu0211-g6-skilled.json)](https://github.com/antvis/g6)`|
+|laibin-wang|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/laibin-wang-g6-skilled.json)](https://github.com/antvis/g6)`|
+|leehomeok|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/leehomeok-g6-skilled.json)](https://github.com/antvis/g6)`|
+|md-liuxiao|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/md-liuxiao-g6-skilled.json)](https://github.com/antvis/g6)`|
+|otwayxf|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/otwayxf-g6-skilled.json)](https://github.com/antvis/g6)`|
+|yycgis|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yycgis-g6-skilled.json)](https://github.com/antvis/g6)`|
+|lstgithub578|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/lstgithub578-g6-skilled.json)](https://github.com/antvis/g6)`|
+|yiqu666-star|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yiqu666-star-g6-skilled.json)](https://github.com/antvis/g6)`|
+|RoverLion|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/roverlion-g6-skilled.json)](https://github.com/antvis/g6)`|
+|gilizeer|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/gilizeer-g6-skilled.json)](https://github.com/antvis/g6)`|
+|nfym|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/nfym-g6-skilled.json)](https://github.com/antvis/g6)`|
+|xiaoluoHe|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/xiaoluohe-g6-skilled.json)](https://github.com/antvis/g6)`|
+|AndyJinSS|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/andyjinss-g6-skilled.json)](https://github.com/antvis/g6)`|
+|webyang1|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/webyang1-g6-skilled.json)](https://github.com/antvis/g6)`|
+|huangxiaobin001|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/huangxiaobin001-g6-skilled.json)](https://github.com/antvis/g6)`|
+|aaayinga|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aaayinga-g6-skilled.json)](https://github.com/antvis/g6)`|
