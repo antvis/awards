@@ -1,6 +1,6 @@
 {
   "name": "@antv/awards",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Grant the AntV badge to GitHub users",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   "author": "Aarebecca",
   "license": "MIT",
   "devDependencies": {
+    "dotenv": "^16.4.7",
     "inquirer": "^12.2.0",
     "node-fetch": "^2.7.0"
   },
