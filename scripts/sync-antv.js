@@ -1,31 +1,27 @@
 const fetch = require('node-fetch');
-const { writeFileSync } = require('fs');
-const { getOwnerRepo, loadJsonFile } = require('./utils');
+const { getOwnerRepo, withAwards } = require('./utils');
 const { ANTV_REPOS } = require('./constants');
 
 const ownerRepo = ANTV_REPOS.map(getOwnerRepo);
 
 Promise.all(ownerRepo.map(getContributors)).then((results) => {
-  const awards = loadJsonFile('awards.json');
+  const awards = withAwards();
 
   results.forEach((data, index) => {
     const repo = ANTV_REPOS[index];
     const badge = `${repo} Contributor`;
     data.forEach((contributor) => {
       const { login } = contributor;
-      if (!awards[login]) awards[login] = [badge];
-      else if (!awards[login].includes(badge)) awards[login].push(badge);
+      awards.insert(login, badge);
     });
   });
 
   // filter out the robot
-  Object.keys(awards).forEach((id) => {
-    if (id.includes('[bot]') || id.endsWith('-bot')) {
-      delete awards[id];
-    }
+  awards.forEach((id) => {
+    if (id.includes('[bot]') || id.endsWith('-bot')) awards.delete(id);
   });
 
-  writeFileSync('awards.json', JSON.stringify(awards, null, 2));
+  awards.close();
 });
 
 async function getContributors(ownerRepo) {

@@ -1,4 +1,4 @@
-const { readFileSync } = require('fs');
+const { readFileSync, writeFileSync } = require('fs');
 
 function loadJsonFile(file, parser) {
   const json = JSON.parse(readFileSync(file, 'utf8'));
@@ -62,6 +62,32 @@ function getRepoURI(badge) {
   return 'https://github.com/' + getOwnerRepo(repo);
 }
 
+function withAwards() {
+  const awards = loadJsonFile('awards.json');
+
+  return {
+    insert: (id, badge) => {
+      if (!awards[id]) awards[id] = [badge];
+      else if (!awards[id].includes(badge)) awards[id].push(badge);
+    },
+    delete: (id, badge) => {
+      if (!badge) delete awards[id];
+      else {
+        const index = awards[id].indexOf(badge);
+        if (index !== -1) awards[id].splice(index, 1);
+      }
+    },
+    forEach: (callback) => {
+      Object.keys(awards).forEach((id) => {
+        callback(id, awards[id]);
+      });
+    },
+    close: () => {
+      writeFileSync('awards.json', JSON.stringify(awards, null, 2));
+    },
+  };
+}
+
 module.exports = {
   loadJsonFile,
   parseConfig,
@@ -70,4 +96,5 @@ module.exports = {
   normalizeName,
   getRepoURI,
   getOwnerRepo,
+  withAwards,
 };
