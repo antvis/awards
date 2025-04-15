@@ -851,3 +851,4 @@ git push
 |webyang1|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/webyang1-g6-skilled.json)](https://github.com/antvis/g6)`|
 |huangxiaobin001|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/huangxiaobin001-g6-skilled.json)](https://github.com/antvis/g6)`|
 |aaayinga|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aaayinga-g6-skilled.json)](https://github.com/antvis/g6)`|
+|eleliauk|G2 Contributor|2025-04-15|`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/eleliauk-g2-contributor.json)](https://github.com/antvis/g2)`|
