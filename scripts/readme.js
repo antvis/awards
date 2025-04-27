@@ -105,7 +105,7 @@ ${badges}
 
 ## <a id="Awards" /> Awards / 颁发列表
 
-| GitHub ID | Achievement / 成就 | Date / 颁发日期 | Badge / 徽章 |
+| GitHub ID | Achievement / 成就 | Preview / 预览 | Badge / 徽章 |
 | - | - | - | - |
 ${_awards
   .map(([id, badge, date]) => {
@@ -114,7 +114,7 @@ ${_awards
     const _url = `[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/${_id}-${_badge}.json)](${getRepoURI(
       badge
     )})`;
-    return `|${id}|${badge}|${date}|\`${_url}\`|`;
+    return `|${id}|${badge}|${_url}|\`${_url}\`|`;
   })
   .join('\n')}
 `;
