@@ -665,6 +665,7 @@ git push
 |yinhangfeng|X6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yinhangfeng-x6-contributor.json)](https://github.com/antvis/x6)`|
 |yuxuan-ctrl|X6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yuxuan-ctrl-x6-contributor.json)](https://github.com/antvis/x6)`|
 |avrinfly|X6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/avrinfly-x6-contributor.json)](https://github.com/antvis/x6)`|
+|avrinfly|G6 Contributor|2025-04-29|`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/avrinfly-g6-contributor.json)](https://github.com/antvis/g6)`|
 |bighhhh|X6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/bighhhh-x6-contributor.json)](https://github.com/antvis/x6)`|
 |Zhangzirui|X6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/zhangzirui-x6-contributor.json)](https://github.com/antvis/x6)`|
 |F-loat|X6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/f-loat-x6-contributor.json)](https://github.com/antvis/x6)`|
