@@ -856,3 +856,4 @@ git push
 |shufufufu|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/shufufufu-g2-contributor.json)](https://github.com/antvis/g2)`|
 |yayea|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yayea-g2-contributor.json)](https://github.com/antvis/g2)`|
 |ouy-o3o|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/ouy-o3o-g6-contributor.json)](https://github.com/antvis/g6)`|
+|afkdsghk211331|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/afkdsghk211331-g2-contributor.json)](https://github.com/antvis/g2)`|
