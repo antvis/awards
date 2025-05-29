@@ -860,3 +860,4 @@ git push
 |Eomnational|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/eomnational-g2-contributor.json)](https://github.com/antvis/g2)`|
 |Eomnational|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/eomnational-g6-contributor.json)](https://github.com/antvis/g6)`|
 |pengcai6|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/pengcai6-g2-contributor.json)](https://github.com/antvis/g2)`|
+|fzr365|G2 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/fzr365-g2-contributor.json)](https://github.com/antvis/g2)`|
