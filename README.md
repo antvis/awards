@@ -86,6 +86,7 @@ git push
 |L7 Contributor|AntV L7 贡献者|_为 AntV L7 项目提交 PR 并被合并_|
 |L7 Skilled|熟练使用 AntV L7|_参与 AntV L7 知识问答活动并获得 90 分以上_|
 |ADC Contributor|Ant Design Charts 贡献者|_为 Ant Design Charts 项目提交 PR 并被合并_|
+|AVA Maintainer|AntV AVA 维护者|_参与 AntV AVA 项目维护_|
 |AVA Contributor|AntV AVA 贡献者|_为 AntV AVA 项目提交 PR 并被合并_|
 |GPT-Vis Contributor|GPT-Vis 贡献者|_为 GPT-Vis 项目提交 PR 并被合并_|
 
@@ -99,6 +100,7 @@ git push
 |2976151305|GPT-Vis Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/2976151305-gpt-vis-contributor.json)](https://github.com/antvis/gpt-vis)`|
 |hustcc|G2 Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-g2-maintainer.json)](https://github.com/antvis/g2)`|
 |hustcc|G6 Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-g6-maintainer.json)](https://github.com/antvis/g6)`|
+|hustcc|AVA Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-ava-maintainer.json)](https://github.com/antvis/ava)`|
 |hustcc|GPT-Vis Contributor|2024-11-22|`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-gpt-vis-contributor.json)](https://github.com/antvis/gpt-vis)`|
 |hustcc|L7 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-l7-skilled.json)](https://github.com/antvis/l7)`|
 |hustcc|G Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-g-contributor.json)](https://github.com/antvis/g)`|
@@ -116,6 +118,7 @@ git push
 |Aarebecca|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g6-contributor.json)](https://github.com/antvis/g6)`|
 |Aarebecca|G6 Skilled||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g6-skilled.json)](https://github.com/antvis/g6)`|
 |yvonneyx|G6 Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yvonneyx-g6-maintainer.json)](https://github.com/antvis/g6)`|
+|yvonneyx|AVA Maintainer||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yvonneyx-ava-maintainer.json)](https://github.com/antvis/ava)`|
 |yvonneyx|G6 Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yvonneyx-g6-contributor.json)](https://github.com/antvis/g6)`|
 |yvonneyx|ADC Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yvonneyx-adc-contributor.json)](https://github.com/ant-design/ant-design-charts)`|
 |yvonneyx|GPT-Vis Contributor||`[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yvonneyx-gpt-vis-contributor.json)](https://github.com/antvis/gpt-vis)`|

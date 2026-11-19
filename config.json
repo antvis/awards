@@ -57,6 +57,10 @@
       "description": "Ant Design Charts 贡献者",
       "approach": ["为 Ant Design Charts 项目提交 PR 并被合并"]
     },
+    "AVA Maintainer": {
+      "description": "AntV AVA 维护者",
+      "approach": ["参与 AntV AVA 项目维护"]
+    },
     "AVA Contributor": {
       "description": "AntV AVA 贡献者",
       "approach": ["为 AntV AVA 项目提交 PR 并被合并"]
@@ -127,6 +131,9 @@
     },
     "ADC Contributor": {
       "extends": "Contributor"
+    },
+    "AVA Maintainer": {
+      "extends": "Maintainer"
     },
     "AVA Contributor": {
       "extends": "Contributor"
